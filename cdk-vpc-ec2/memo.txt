@@ -1,0 +1,4 @@
+https://dev.classmethod.jp/articles/aws-cdk-vpc-subnet-ec2/
+
+cdk bootstrap --bootstrap-bucket-name cdk-vpc-ec2-asset --toolkit-stack-name cdk-vpc-ec2-toolkit
+
