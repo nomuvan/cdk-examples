@@ -1,0 +1,1 @@
+https://dev.classmethod.jp/articles/aws-cdk-v2-create-ecr-repo-push-image-execute-on-lambda/
