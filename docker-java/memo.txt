@@ -1,0 +1,4 @@
+
+docker build --no-cache -t test-java-corretto .
+
+docker kill test-java-corretto ; docker rmi test-java-corretto ; docker build --no-cache -t test-java-corretto .;  docker run -p 8080:8080 -d --privileged --name test-java-corretto -h test-java-corretto --rm test-java-corretto
